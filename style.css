@@ -1,0 +1,14 @@
+*{
+    font-family:'Oxygen', sans-serif;
+}
+
+img{
+    cursor: pointer;
+}
+button{
+    color: #00f;
+    cursor: pointer;
+    background-color: transparent;
+    border: solid 2px #00f;
+    padding: 10px;
+}

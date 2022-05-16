@@ -9,6 +9,6 @@ function Puntos(a){
     score.innerHTML = x;
     if(x > 80){
         x = x - 80
-        score.innerHTML = "<h1>!!Felicitaciones " + name + " Has Ganado!!"
+        score.innerHTML = "<h1>!!Felicitaciones " + name + " Has Ganado !!"
     };
 };
