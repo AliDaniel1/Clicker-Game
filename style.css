@@ -1,5 +1,11 @@
-*{
-    font-family:'Oxygen', sans-serif;
+
+h1{
+    font-size: 38px;
+    font-family:'Oxygen',sans-serif;
+}
+p{
+    font-size: 22px;
+    font-family:'Oxygen',sans-serif;
 }
 
 img{
@@ -10,5 +16,6 @@ button{
     cursor: pointer;
     background-color: transparent;
     border: solid 2px #00f;
+    margin: 20px;
     padding: 10px;
 }
